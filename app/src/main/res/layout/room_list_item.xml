@@ -22,16 +22,19 @@
         android:layout_marginLeft="10dp">
 
         <TextView
+            android:id="@+id/paymentTxt"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="25dp"
             android:text="보증금/월세"/>
         <TextView
+            android:id="@+id/locationandFloorTxt"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="25dp"
             android:text="지역/층"/>
         <TextView
+            android:id="@+id/descriptionTxt"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="15dp"
